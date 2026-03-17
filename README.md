@@ -2,6 +2,10 @@
 
 I'm a web-focused software developer based in Vancouver.
 
+I'm always working with new tech, always looking to bring something home to my main technologies with me from different programming paradigms, frameworks and ecosystems.
+
+Check out some of my projects below! Currently building out an open source native chat application as a Discord alternative.
+
 <!--
 Here are some ideas to get you started:
 
